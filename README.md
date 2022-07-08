@@ -1,5 +1,5 @@
 # codewars-task-solutions
-My solutions tasks in the CodeWars.
+This is my solutions tasks in the CodeWars.
 <br>
 All code is written in the JavaScript language.
 <br>
